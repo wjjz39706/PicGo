@@ -1,5 +1,5 @@
 # Token
-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
+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
 
 注：不能使用fastgithub上传图片
 https://zhuanlan.zhihu.com/p/653288802
