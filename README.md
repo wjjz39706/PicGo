@@ -1,5 +1,4 @@
-# Token
-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
+token 每次都自己获取把，一更新笔记就自动失效了。
 
 注：不能使用fastgithub上传图片
 https://zhuanlan.zhihu.com/p/653288802
