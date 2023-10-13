@@ -1,1 +1,2 @@
-# PicGo
+# Token
+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
